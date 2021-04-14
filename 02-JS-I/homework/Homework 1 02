@@ -1,0 +1,6 @@
+1.
+* Variables: es un metodo de guardar información para luego referenciarlo y usarlo con posterioridad.
+* Strings: Son aquellos caracteres, principalemente letras, que se encuentren entre comillas simples o dobles
+* Funciones (argumentos, `return`): la funcion es un objeto que le avisa a la computadora que todo lo que se encuentra entre conrchetes debe ejecutarse.
+* Declaraciones `if`: Forma de la funcion que le avisa a la computadora que debe ejecutarse el codigo solo si se reune cierta condición.
+* Valores booleanos (`true`, `false`): Concepto binario, "blanco o negro", si o no.
